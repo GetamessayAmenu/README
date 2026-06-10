@@ -190,7 +190,7 @@ plain
   <img src="https://github-profile-trophy.vercel.app/?username=GetamessayAmenu&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Metrics&card_width=500&hide=issues,prs&show=discussions_answered,prs_merged" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GetamessayAmenu&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Metrics&card_width=500&hide=issues,prs&show=discussions_answered,prs_merged" />
 </p>
 🐍 Contribution Snake Animation
 <picture>
@@ -242,9 +242,9 @@ diff
 🎯 Fun Facts & Personality
 yaml
 
-name: "Your Name"
+name: "Getamessay Amenu"
 role: "AI Engineer & Full-Stack Developer"
-location: "Your City, Country"
+location: "Addis Ababa, Ethiopia"
 current_status: "Building the future with AI"
 
 hobbies:
