@@ -20,7 +20,7 @@ Table
 🔭 Current Focus	🌱 Learning	💡 Philosophy
 Building scalable AI systems with LLMs & RAG	Advanced MLOps & Distributed AI	"Intelligence should be accessible, not exclusive"
 </div>
-💡 Building intelligent systems that combine AI, LLMs, RAG, and Full-Stack Engineering to solve real-world problems.
+💡Building intelligent systems that combine AI, LLMs, RAG, and Full-Stack Engineering to solve real-world problems.
 I am an AI Engineer and Full-Stack Developer passionate about designing scalable, intelligent applications powered by:
 
     🤖 Large Language Models (LLMs) — OpenAI, Anthropic, Llama, Mistral
